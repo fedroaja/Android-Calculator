@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TugasCalculator</string>
+    <string name="nol">0</string>
+    <string name="CE">CE</string>
+    <string name="C">C</string>
+    <string name="BACK">BACK</string>
+    <string name="BAGI">/</string>
+    <string name="KALI">X</string>
+    <string name="TAMBAH">+</string>
+    <string name="KURANG">-</string>
+    <string name="SAMADENGAN">=</string>
+    <string name="SWITCH">+/-</string>
+    <string name="DOT">.</string>
+    <string name="SATU">1</string>
+    <string name="DUA">2</string>
+    <string name="TIGA">3</string>
+    <string name="EMPAT">4</string>
+    <string name="LIMA">5</string>
+    <string name="ENAM">6</string>
+    <string name="TUJUH">7</string>
+    <string name="DELAPAN">8</string>
+    <string name="SEMBILAN">9</string>
+</resources>
